@@ -1,0 +1,2 @@
+FLASK_APP=testSchedule.py
+FLASK_ENV=development
