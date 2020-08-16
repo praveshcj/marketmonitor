@@ -1,0 +1,6 @@
+marketmonitor/node_modules
+api/__pycache__
+api/venv
+api/test.py
+api/testSchedule.py
+apiKey.txt
